@@ -10,6 +10,14 @@
 	🚧   Concluído 🚀 🚧
 </h4>
 
+<div align="center">
+  <img src="https://img.shields.io/github/license/ogabrielrodrigues/ignitelab"/>
+  <img src="https://img.shields.io/github/issues/ogabrielrodrigues/ignitelab">
+  <img src="https://img.shields.io/github/package-json/dependency-version/ogabrielrodrigues/ignitelab/react">
+</div>
+
+<br>
+
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - **[ReactJS](https://pt-br.reactjs.org/)**
