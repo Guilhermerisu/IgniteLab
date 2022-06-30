@@ -1,7 +1,9 @@
-<h1 align="center">
-     🚀 <a href="https://guilhermerisu-ignite.vercel.app" alt="site portifólio"> Ignite Lab | ReactJS  </a>
-</h1>
+<div align="center">
+  <img src="https://github.com/Luciano-Ferreira/event-platform/blob/main/src/assets/Logo.svg" alt="Ignite | ReactJS">
+</div>
 
+
+![mockup](src/assets/code-mockup.png)
 <h3 align="center">
     Sistema plataforma de eventos
 </h3>
