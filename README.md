@@ -34,4 +34,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Publicação
 ---
-Projeto publicado via [Vercel](https://guilhermerisu-ignite.vercel.app) 
+Link para visualização do site via [Vercel](https://guilhermerisu-ignite.vercel.app) 
