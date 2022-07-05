@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TailwindCSS](https://tailwindcss.com/)
 ## 💻 Projeto
 
-O IgniteLab é uma aplicação web cujo o objetivo é ser uma plataforma de eventos online. O projeto foi desenvolvido durante o IgniteLab da Rocketseat 
+O IgniteLab é uma aplicação web cujo o objetivo é ser uma plataforma de eventos online. O projeto foi desenvolvido durante o IgniteLab da Rocketseat (OBS: Os dados utilizados são só para fins de teste, eles podem ser facilmente trocados via GraphCMS
 
 ## 🔖 Deploy
 
