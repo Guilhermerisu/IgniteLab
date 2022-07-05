@@ -1,7 +1,9 @@
-<h1 align="center">
-     🚀 <a href="https://guilhermerisu-ignite.vercel.app" alt="site portifólio"> Ignite Lab | ReactJS  </a>
-</h1>
+<div align="center">
+  <img src="https://github.com/Luciano-Ferreira/event-platform/blob/main/src/assets/Logo.svg" alt="Ignite | ReactJS">
+</div>
 
+
+![mockup](src/assets/code-mockup.png)
 <h3 align="center">
     Sistema plataforma de eventos
 </h3>
@@ -9,6 +11,14 @@
 <h4 align="center">
 	🚧   Concluído 🚀 🚧
 </h4>
+
+<div align="center">
+  <img src="https://img.shields.io/github/license/ogabrielrodrigues/ignitelab"/>
+  <img src="https://img.shields.io/github/issues/ogabrielrodrigues/ignitelab">
+  <img src="https://img.shields.io/github/package-json/dependency-version/ogabrielrodrigues/ignitelab/react">
+</div>
+
+<br>
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -24,4 +34,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Publicação
 ---
-Projeto publicado via [Vercel](https://guilhermerisu-ignite.vercel.app) 
+Link para visualização do site via [Vercel](https://guilhermerisu-ignite.vercel.app) 
