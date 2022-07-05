@@ -2,15 +2,10 @@
   <img src="https://github.com/Luciano-Ferreira/event-platform/blob/main/src/assets/Logo.svg" alt="Ignite | ReactJS">
 </div>
 
+  <img src="https://github.com/Guilhermerisu/IgniteLab/blob/main/src/assets/PreviewGif1.gif">
+  <img src="https://github.com/Guilhermerisu/IgniteLab/blob/main/src/assets/PreviewGif2.gif">
 
-![mockup](src/assets/code-mockup.png)
-<h3 align="center">
-    Sistema plataforma de eventos
-</h3>
-</br>
-<h4 align="center">
-	🚧   Concluído 🚀 🚧
-</h4>
+
 
 <div align="center">
   <img src="https://img.shields.io/github/license/ogabrielrodrigues/ignitelab"/>
@@ -20,18 +15,33 @@
 
 <br>
 
-As seguintes ferramentas foram usadas na construção do projeto:
+## ✨ Tecnologias
 
-- **[ReactJS](https://pt-br.reactjs.org/)**
-- **[Vite](https://vitejs.dev/)**
-- **[Typescript](https://www.typescriptlang.org/)**
-- **[Apollo](https://www.apollographql.com/)**
-- **[GraphQL](https://graphql.org/)**
-- **[VimeJS](https://vimejs.com/)**
-- **[Phosphor Icons](https://phosphoricons.com/)**
-- **[TailwindCSS](https://tailwindcss.com/)**
-- **[Date-fns](https://date-fns.org/)**
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Publicação
----
-Link para visualização do site via [Vercel](https://guilhermerisu-ignite.vercel.app) 
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Apollo](https://www.apollographql.com/)
+- [GraphQL](https://graphql.org/)
+- [TailwindCSS](https://tailwindcss.com/)
+## 💻 Projeto
+
+O IgniteLab é uma aplicação web cujo o objetivo é ser uma plataforma de eventos online. O projeto foi desenvolvido durante o IgniteLab da Rocketseat 
+
+## 🔖 Deploy
+
+Este site está disponível para testes via Vercel pelo link: <a href="https://guilhermerisu-ignite.vercel.app">Testar</a>
+
+
+## 🚀 Como executar
+
+- Clone o repositório
+- Instale as dependências com `yarn`
+- Inicie o servidor com `yarn dev`
+
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
+
+## 📄 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
