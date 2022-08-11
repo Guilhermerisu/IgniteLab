@@ -18,13 +18,14 @@
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
+<div>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql"/>
+<img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</div>
 
-- [ReactJS](https://pt-br.reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Apollo](https://www.apollographql.com/)
-- [GraphQL](https://graphql.org/)
-- [TailwindCSS](https://tailwindcss.com/)
 ## 💻 Projeto
 
 O IgniteLab é uma aplicação web cujo o objetivo é ser uma plataforma de eventos online. O projeto foi desenvolvido durante o IgniteLab da Rocketseat (OBS: Os dados utilizados são só para fins de teste, eles podem ser facilmente trocados via GraphCMS
